@@ -16,6 +16,7 @@ import twitterIcon from "./images/twitter.png"
 import lightningHosted from "./images/LightningHosted.png"
 import docchiMe from "./images/Docchie.png"
 import bitcoinFortuneCookie from "./images/bitcoinFortuneCookie.png"
+import textReverser from './images/TextReverser.png'
 
 // Image of me
 import jacksonMiller from "./images/JacksonMiller.jpg"
@@ -72,6 +73,16 @@ export default {
               bitcoinFortuneCookie,
       //Project URL - Add Your Project Url Here
       url: "https://BitcoinFortuneCookie.com/",
+    },
+    {
+      title: "Text Reverser", //Project Title - Add Your Project Title Here
+      para:
+        "A sample project built in vanilla JS", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+              textReverser,
+      //Project URL - Add Your Project Url Here
+      url: "https://text-reverser.web.app/",
     },
 
     /*
