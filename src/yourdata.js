@@ -150,7 +150,7 @@ export default {
     },
     {img: nestJsIcon,
     para: "2 years of NestJS experience"}
-  ],aggregous
+  ],
 
   // End Skills Section --------------------------
 
