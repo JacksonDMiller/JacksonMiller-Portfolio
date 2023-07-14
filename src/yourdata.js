@@ -5,7 +5,7 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import nodejsIcon from "./images/nodejs.png"
 import bitcoinIcon from "./images/bitcoin.jpeg"
-
+import nestJsIcon from "./images/nestjs.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -102,9 +102,9 @@ export default {
   aboutParaOne:
     "My name is Jackson Miller. I am an avid rock climber and web developer. I am aiming to leverage my skills to successfully fill the developer role at your company.",
   aboutParaTwo:
-    "I am passionate about Bitcoin. My intrest in Bitcoin inspired me to learn to code and gave me the finacial freedom to persue that goal.",
+    "I am passionate about Bitcoin. My interest in Bitcoin inspired me to learn to code and gave me the financial freedom to pursue that goal.",
   aboutParaThree:
-    "I have been coding for 5 years. I started by building a few passion projects to hone my skills. Now I do freelance software development and I'm seeking a full time postion",
+    "I have been coding for 8 years. I most recently worked for Stoa as a fullstack developer and I'm seeking my next full time position",
   aboutImage:
     jacksonMiller,
 
@@ -118,34 +118,39 @@ export default {
     {
       img: htmlIcon,
       para:
-        "5 years of HTML expereince,",
+        "7 years of HTML experience,",
     },
     {
       img: cssIcon,
       para:
-        "5 years of CSS expereince",
+        "7 years of CSS experience",
     },
     {
       img: jsIcon,
       para:
-      "5 years of JavaScript expereince",
+      "7 years of JavaScript experience",
     },
     {
       img: reactIcon,
       para:
-      "3 years of React expereince",
+      "5 years of React experience",
     },
     {
       img: nodejsIcon,
       para:
-        "3 years of NodeJs experenice",
+        "5 years of NodeJs experience",
     },
+    {
+    img: githubIcon,
+    para: "8 years of Github experience"},
     {
       img: bitcoinIcon,
       para:
-        "8 years of Bitcoin expereince",
+        "10 years of Bitcoin experience",
     },
-  ],
+    {img: nestJsIcon,
+    para: "2 years of NestJS experience"}
+  ],aggregous
 
   // End Skills Section --------------------------
 

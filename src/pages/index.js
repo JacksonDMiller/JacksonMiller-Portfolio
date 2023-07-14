@@ -14,7 +14,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Jackson Miller Portfolio" />
     <Header></Header>
-    <Work></Work>
+    {/* <Work></Work> */}
     <About></About>
     <Skills></Skills>
     <Promotion></Promotion>
